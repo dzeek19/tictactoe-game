@@ -1,5 +1,9 @@
 # Quantum Tic-Tac-Toe
 
+
+<img width="1907" height="1014" alt="Screenshot 2026-04-27 233034" src="https://github.com/user-attachments/assets/bfb07f98-2343-4a06-8863-24bb5fc59839" />
+
+
 A feature-rich Tic-Tac-Toe game with an unbeatable AI opponent powered by the Minimax algorithm with Alpha-Beta Pruning. Built with a beautiful terminal UI using Rich.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)

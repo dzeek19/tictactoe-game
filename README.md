@@ -22,7 +22,7 @@ A feature-rich Tic-Tac-Toe game with an unbeatable AI opponent powered by the Mi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tictactoe-game.git
+git clone https://github.com/dzeek19/tictactoe-game.git
 cd tictactoe-game
 ```
 

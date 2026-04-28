@@ -1,4 +1,4 @@
-# Quantum Tic-Tac-Toe
+# Tic-Tac-Toe
 
 
 <img width="1907" height="1014" alt="Screenshot 2026-04-27 233034" src="https://github.com/user-attachments/assets/bfb07f98-2343-4a06-8863-24bb5fc59839" />
